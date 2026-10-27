@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Md%20Zishan%20Sarkar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Zishan%20Sarkar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=8B949E" width="100%" />
 
 </div>
 
@@ -30,8 +30,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zishansarkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzishanSarkar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Md_Zishan_Sarkar_Murad/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zishanSarkar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zishansarkar/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/0.1_Zishan)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzishansarkarmurad@gmail.com)
 
@@ -45,7 +45,7 @@
 
 | Platform | Profile | Status |
 |:---:|:---:|:---:|
-| 🟡 LeetCode | [Md\_Zishan\_Sarkar\_Murad](https://leetcode.com/u/Md_Zishan_Sarkar_Murad/) | ✅ Active |
+| 🟡 LeetCode | [Zishan\_Sarkar](https://leetcode.com/u/zishansarkar/) | ✅ Active |
 | 🔵 Codeforces | [0.1\_Zishan](https://codeforces.com/profile/0.1_Zishan) | ✅ Active |
 
 </div>
@@ -102,7 +102,7 @@
 ---
 
 ## 🚀 Featured Projects
-### 🔥 [The Skill Hearth](https://github.com/mdzishanSarkar/The-Skill-Hearth)
+### 🔥 [The Skill Hearth](https://github.com/zishanSarkar/The-Skill-Hearth)
 
 > A hyperlocal skill-sharing platform that transforms neighborhoods into living classrooms - connecting neighbors to teach and learn everyday skills together.
 
@@ -116,14 +116,32 @@
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzishanSarkar/the-skill-hearth)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zishanSarkar/the-skill-hearth)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://the-skill-hearth.vercel.app)
 
 </div>
 
 <br/>
 
-### 🌊 [Deep Sea Aquarium](https://github.com/mdzishanSarkar/Deep-Sea-Aquarium)
+
+### 🕸️HookRelay
+
+> A webhook delivery service that queues events, retries failed deliveries, records delivery attempts, and lets developers inspect and replay events.
+```text
+- **Built with:** React, TypeScript, Node.js, Express, MongoDB, Redis, and BullMQ
+- **Purpose:** Help prevent temporary receiver outages from causing lost webhook events
+- **Highlights:** Asynchronous delivery, retries, dead-letter handling, HMAC signing, event logs, and replay
+```
+<div align="center">
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://hookrelay-lac.vercel.app)
+[![API Health](https://img.shields.io/badge/API%20Health-276EF1?style=for-the-badge&logo=render&logoColor=white)](https://hookrelay-nqm8.onrender.com/health)
+
+</div>
+
+<br/>
+
+### 🌊 [Deep Sea Aquarium](https://github.com/zishanSarkar/Deep-Sea-Aquarium)
 
 > An interactive graphics project that simulates a living underwater aquarium environment using OpenGL and GLUT.
 
@@ -136,7 +154,7 @@
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzishanSarkar/Deep-Sea-Aquarium)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zishanSarkar/Deep-Sea-Aquarium)
 
 </div>
 
@@ -150,9 +168,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdzishanSarkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Zishan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zishanSarkar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Zishan's GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzishanSarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishanSarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
 
 </div>
 
@@ -160,7 +178,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mdzishanSarkar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=zishanSarkar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -170,7 +188,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdzishanSarkar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zishanSarkar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -180,7 +198,7 @@
 
 <div align="center">
 
-[![Zishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzishanSarkar&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zishanSarkar&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -221,6 +239,6 @@ I'm always open to **Collaborating on projects · Discussing algorithms · Learn
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdzishanSarkar&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=zishanSarkar&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
