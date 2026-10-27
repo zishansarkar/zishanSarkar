@@ -128,9 +128,9 @@
 
 > A webhook delivery service that queues events, retries failed deliveries, records delivery attempts, and lets developers inspect and replay events.
 ```text
-- **Built with:** React, TypeScript, Node.js, Express, MongoDB, Redis, and BullMQ
-- **Purpose:** Help prevent temporary receiver outages from causing lost webhook events
-- **Highlights:** Asynchronous delivery, retries, dead-letter handling, HMAC signing, event logs, and replay
+- 🔧Built with: React, TypeScript, Node.js, Express, MongoDB, Redis, and BullMQ
+- 🎯Purpose: Help prevent temporary receiver outages from causing lost webhook events
+- ✨Highlights: Asynchronous delivery, retries, dead-letter handling, HMAC signing, event logs, and replay
 ```
 <div align="center">
 
